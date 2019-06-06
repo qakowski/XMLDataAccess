@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ComputerList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computer>
+    <SerialNumber>21</SerialNumber>
+    <Owner>Abc</Owner>
+    <PhoneNumber>Abc</PhoneNumber>
+    <EmailAddress>Abc</EmailAddress>
+    <Address>42</Address>
+  </Computer>
+</ComputerList>

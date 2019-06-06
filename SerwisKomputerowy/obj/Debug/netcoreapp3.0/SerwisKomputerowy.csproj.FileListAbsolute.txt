@@ -1,0 +1,6 @@
+S:\Berez\SerwisKomputerowy\SerwisKomputerowy\obj\Debug\netcoreapp3.0\SerwisKomputerowy.csprojAssemblyReference.cache
+S:\Berez\SerwisKomputerowy\SerwisKomputerowy\obj\Debug\netcoreapp3.0\App.g.cs
+S:\Berez\SerwisKomputerowy\SerwisKomputerowy\obj\Debug\netcoreapp3.0\SerwisKomputerowy_MarkupCompile.cache
+S:\Berez\SerwisKomputerowy\SerwisKomputerowy\obj\Debug\netcoreapp3.0\SerwisKomputerowy.csproj.CoreCompileInputs.cache
+S:\Berez\SerwisKomputerowy\SerwisKomputerowy\obj\Debug\netcoreapp3.0\SerwisKomputerowy.AssemblyInfoInputs.cache
+S:\Berez\SerwisKomputerowy\SerwisKomputerowy\obj\Debug\netcoreapp3.0\SerwisKomputerowy.AssemblyInfo.cs
